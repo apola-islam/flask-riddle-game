@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riddle Game</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+    <div class="container">
+        
+        <h1> Riddle Game </h1>
+        <h2 style="text-align: center;">How to Play</h2>
+        <div id="description">
+            
+            <p> 
+             Read each riddle carefully and try to guess the correct answer.<br>
+            <br>
+            Your answer must be ONE WORD. Character case does not matter.<br>
+            <br>
+            For every correct answer, you will earn 1 point.<br>
+            <br>
+            The game will end when you've gone through all the riddles.<br>   
+            <br>
+            Begin by pressing the <b>Start</b> button. <br>
+        
+            </p>
+            
+        </div> <br>
+        <form action="{{ url_for('index') }}" id="start">
+        <button id="button" type="submit">Start Game</button>
+        </form>    
+    </div>
+</body>
+</html>
