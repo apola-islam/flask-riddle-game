@@ -46,6 +46,7 @@ python app.py
 This will start the Flask development server. You can access the game by going to http://127.0.0.1:5000 in your browser.
 
 ## Future Improvements
+- Incorporating storyline
 - Styling game over page
 - Adding a timer
 - Different riddles each session
