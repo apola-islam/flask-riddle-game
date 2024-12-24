@@ -4,7 +4,6 @@ This project was built using Python, Flask, Jinja2, HTML, and CSS. It's still a 
 Currently, the game goes through a series of riddles stored in a text file, and the game ends when all riddles have been solved.
 
 <img width="1506" alt="Screenshot 2024-12-23 at 9 28 46 PM" src="https://github.com/user-attachments/assets/edfe31ee-1797-4d13-ac1a-19164af5cf23" />
-<img width="1491" alt="Screenshot 2024-12-23 at 9 29 30 PM" src="https://github.com/user-attachments/assets/bdfc327b-39df-4da6-87b2-ef180dad91e9" />
 
 
 ## Features
