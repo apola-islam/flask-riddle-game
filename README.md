@@ -5,6 +5,7 @@ Currently, the game goes through a series of riddles stored in a text file, and 
 
 <img width="1506" alt="Screenshot 2024-12-23 at 9 28 46 PM" src="https://github.com/user-attachments/assets/edfe31ee-1797-4d13-ac1a-19164af5cf23" />
 
+<img width="1503" alt="Screenshot 2024-12-24 at 7 43 15 PM" src="https://github.com/user-attachments/assets/fd4ccf04-6605-41dd-a312-6edebb48a354" />
 
 ## Features
 - Solve riddles and score points for correct answers.
