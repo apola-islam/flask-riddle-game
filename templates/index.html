@@ -9,14 +9,14 @@
 <body>
     <div class="container">
         <p>Score: {{score}} </p>
-        <h1 style="text-align: center;"> Riddle Game </h1>
+        <h1 style="text-align: center;"> Quest of the Lost Relics </h1>
         <p id="question"> {{ riddle['question'] }} </p>
         <form action="submit" method="POST" style="text-align: center;" id="submit">
             <input id="answer-input" type="text" name="answer" placeholder="Your answer..." required autocomplete="off" maxlength="30">
             <button type="submit">Submit</button>
         </form>
 
-        <div id="result">{{ result }}</div>
+        <div id="result">{{ result }}</div> <br>
         Riddles Left: {{ length - index }}
     </div>
 </body>
